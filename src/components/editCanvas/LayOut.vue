@@ -4,7 +4,7 @@
       <div class="history-card" id="his-list">
         <div class="history-title">
           <i class="el-icon-s-order" style="margin-right: 10px"></i>
-          历史记录commit1
+          历史记录
         </div>
         <!-- 新建对话 -->
         <div style="cursor: pointer">
