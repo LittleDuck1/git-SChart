@@ -59,10 +59,10 @@
       <div class="config-layout" @click="configTrigger">
         <div class="edit-config" v-if="isEditConfig === true">
           <div class="edit-config-title">
-            <span>图表配置</span>
+            <span>图表配置11</span>
           </div>
           <div class="edit-config-item">
-            <span>图表标题</span>
+            <span>图表标题22</span>
             <el-input
               @input="setTitle()"
               v-model="tableTitle"
@@ -71,7 +71,7 @@
             ></el-input>
           </div>
           <div class="edit-config-item">
-            <span>背景颜色</span>
+            <span>背景颜色33</span>
             <el-color-picker
               v-model="bgColor"
               @change="changeColor()"
