@@ -314,7 +314,7 @@
                 :limit="5"
                 :file-list="fileList"
               >
-                <el-button slot="trigger" type="primary">点击上传</el-button>
+                <el-button slot="trigger" type="primary">点击上传呀呀呀</el-button>
               </el-upload>
             </div>
             <!-- 问题输入框 -->
