@@ -21,6 +21,7 @@ export default {
     console.log('home3-mounted');
     console.log('home4-mounted');
     console.log('home5-mounted');
+    console.log('icon1-mounted');
   },
   methods: {
   },
