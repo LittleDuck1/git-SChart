@@ -16,9 +16,11 @@ export default {
     return {};
   },
   mounted() {
-    console.log('home--mounted')
+    console.log('home--mounted');
+    console.log('home2-mounted');
   },
-  methods: {},
+  methods: {
+  },
 };
 </script>
 
