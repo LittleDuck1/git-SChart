@@ -20,6 +20,7 @@ export default {
     console.log('home2-mounted');
     console.log('home3-mounted');
     console.log('home4-mounted');
+    console.log('home5-mounted');
   },
   methods: {
   },
