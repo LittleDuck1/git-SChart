@@ -16,7 +16,7 @@
         <div class="serachHistory">
           <el-input
             clearable
-            placeholder="请输入关键词"
+            placeholder="请输入关键词333"
             v-model="searchInput"
             class="input-with-select"
             suffix-icon="el-icon-search"
