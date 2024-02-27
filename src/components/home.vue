@@ -18,6 +18,8 @@ export default {
   mounted() {
     console.log('home--mounted');
     console.log('home2-mounted');
+    console.log('home3-mounted');
+    console.log('home4-mounted');
   },
   methods: {
   },
